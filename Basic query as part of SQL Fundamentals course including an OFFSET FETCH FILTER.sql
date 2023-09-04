@@ -1,4 +1,4 @@
---Basic query as part of SQL Fundamentals course including an OFFSET FETCH FILTER
+--Basic query SQL Query including an OFFSET FETCH FILTER
 SELECT
 SalesOrderNumber AS InvoiceNumber,
 OrderDate,
